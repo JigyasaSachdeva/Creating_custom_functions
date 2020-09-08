@@ -1,7 +1,7 @@
 #Creating functions for evaluation metrics
 
 #Consider the following:
-actual #actual class
+actual  #actual class
 preducted   #predicted class
 
 #Positive Class: 1, Negative Class: 0
